@@ -31,7 +31,7 @@ Code contributor: Wei-Ren Chen and Yao-Mao Cheng
     * #define CUDNN_MINOR      1
     * #define CUDNN_PATCHLEVEL 10
     * #define CUDNN_VERSION    (CUDNN_MAJOR * 1000 + CUDNN_MINOR * 100 + CUDNN_PATCHLEVEL)
-    
+     
 ## Dataset
   * The paper which proposed the ASL Dataset can be found in  [**Spelling It Out: Real–Time ASL Fingerspelling Recognition**](https://empslocal.ex.ac.uk/people/staff/np331/publications/PugeaultBowden2011b.pdf) 
     * [1] Pugeault, N., and Bowden, R. (2011). Spelling It Out: Real-Time ASL Fingerspelling Recognition In Proceedings of the 1st IEEE Workshop on Consumer Depth Cameras for Computer Vision, jointly with ICCV'2011
